@@ -3,18 +3,18 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey.svg)
 
-Un'applicazione per la gestione delle password sviluppata in Python con l'uso della libreria Tkinter per l'interfaccia grafica. I dati vengono criptati e salvati in un file scelto dall'utente, garantendo la sicurezza delle informazioni sensibili. La chiave di cifratura può essere generata direttamente tramite l'interfaccia grafica.
+Un'applicazione per la gestione delle password sviluppata in Python con l'uso della libreria Tkinter per l'interfaccia grafica. I dati vengono criptati e salvati in un file scelto dall'utente, garantendo la sicurezza delle informazioni sensibili.
 
 ## Caratteristiche
 
-- **Interfaccia grafica**: Creata utilizzando Tkinter, facile da usare e intuitiva.
+- **Interfaccia grafica**: Creata utilizzando Tkinter.
 - **Criptazione dei dati**: Le password vengono criptate con un algoritmo sicuro prima di essere salvate nel file.
 - **Generazione della chiave**: La chiave per la cifratura può essere creata direttamente tramite l'interfaccia grafica.
-- **Salvataggio sicuro**: Le informazioni criptate vengono memorizzate in un file selezionato dall'utente, proteggendo le password da accessi non autorizzati.
+- **Salvataggio sicuro**: Le informazioni criptate vengono memorizzate in un file selezionato dall'utente.
 
 ## Installazione
 
-1. Clona questo repository:
+1. Clona questa repository:
    ```bash
    git clone https://github.com/Donatipaolo/Gestore-Password.git
 2. Naviga nella cartella del progetto:
